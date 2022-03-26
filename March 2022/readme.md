@@ -10,7 +10,7 @@
   - [Search source](./Web%20Exploitation/Search%20source/) 
   - [Forbidden Paths](./Web%20Exploitation/Forbidden%20Paths/) 
   - [Power Cookie](./Web%20Exploitation/Power%20Cookie)
-  - [Roboto Sans](./Web%20Exploitation/The%20Arts%20of%20Details/) 
+  - [Roboto Sans](./Web%20Exploitation/Roboto%20Sans/) 
   - [Secrets](./Web%20Exploitation/Secrets/) 
   - [SQL Direct](./Web%20Exploitation/SQL%20Direct)
   - [SQLiLite](./Web%20Exploitation/SQLiLite/)
@@ -42,14 +42,14 @@
   - [Safe Opener](./Reverse/Safe%20Opener/) 
   - unpackme.py
   - bloat.py 
-  - Fresh Java 
+  - [Fresh Java](./Reverse/Fresh%20Java/) 
   - Bbbbloat
   - unpackme 
   - Keygenme 
   - Wizardlike
   
 - Forensics (13)
-  - Enhance!
+  - [Enhance!](./Forensics/Enhance!)
   - File types 
   - Lookey here
   - Packets Primer 
