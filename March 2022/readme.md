@@ -4,80 +4,80 @@
 
 ## List of challenges (66)
 - Web Exploitation (12)
-  - [Includes](./Steganography/The%20Arts%20of%20Details/) 
-  - [Inspect HTML](./Steganography/ICMP/) 
-  - [Local Authority](./Steganography/Treasure)
-  - [Search source](./Steganography/The%20Arts%20of%20Details/) 
-  - [Forbidden Paths](./Steganography/ICMP/) 
-  - [Power Cookie](./Steganography/Treasure)
-  - [Roboto Sans](./Steganography/The%20Arts%20of%20Details/) 
-  - [Secrets](./Steganography/ICMP/) 
-  - [SQL Direct](./Steganography/Treasure)
-  - [SQLiLite](./Steganography/The%20Arts%20of%20Details/) 
-  - [Live Art](./Steganography/ICMP/) 
-  - [noted](./Steganography/Treasure)
+  - [Includes](./Web%20Exploitation/Includes/) 
+  - [Inspect HTML](./Web%20Exploitation/Inspect%20HTML/) 
+  - [Local Authority](./Web%20Exploitation/Local%20Authority)
+  - [Search source](./Web%20Exploitation/Search%20source/) 
+  - [Forbidden Paths](./Web%20Exploitation/Forbidden%20Paths/) 
+  - [Power Cookie](./Web%20Exploitation/Power%20Cookie)
+  - [Roboto Sans](./Web%20Exploitation/The%20Arts%20of%20Details/) 
+  - [Secrets](./Web%20Exploitation/Secrets/) 
+  - [SQL Direct](./Web%20Exploitation/SQL%20Direct)
+  - [SQLiLite](./Web%20Exploitation/SQLiLite/)
+  - Live Art 
+  - noted
   
 - Crypto (15)
-  - [basic-mod1](./Reverse/Mine%20Game/) 
-  - [basic-mod2](./Reverse/Obfuscated/) 
-  - [credstuff](./Reverse/Peripheral%20Interface%20Controller%20XVI/) 
-  - [morse-code](./Steganography/The%20Arts%20of%20Details/) 
-  - [rail-fence](./Steganography/ICMP/) 
-  - [substitution0](./Steganography/Treasure)
-  - [substitution1](./Steganography/The%20Arts%20of%20Details/) 
-  - [substitution2](./Steganography/ICMP/) 
-  - [transposition-trial](./Steganography/Treasure)
-  - [Vigenere](./Steganography/The%20Arts%20of%20Details/) 
-  - [diffie-hellman](./Steganography/ICMP/) 
-  - [Very Smooth](./Steganography/Treasure)
-  - [Sequences](./Steganography/The%20Arts%20of%20Details/) 
-  - [Sum-O-Primes](./Steganography/ICMP/) 
-  - [NSA Backdoor](./Steganography/Treasure)
+  - [basic-mod1](./Crypto/basic-mod1/) 
+  - [basic-mod2](./Crypto/basic-mod2/) 
+  - [credstuff](./Crypto/credstuff/) 
+  - morse-code 
+  - rail-fence 
+  - substitution0
+  - substitution1 
+  - substitution2 
+  - [transposition-trial](./Crypto/transposition-trial)
+  - [Vigenere](./Crypto/Vigenere/) 
+  - diffie-hellman 
+  - Very Smooth
+  - Sequences 
+  - Sum-O-Primes 
+  - NSA Backdoor
   
 - Reverse (12)
-  - [file-run1](./Steganography/The%20Arts%20of%20Details/) 
-  - [file-run2](./Steganography/ICMP/) 
-  - [GDB Test Drive](./Steganography/Treasure)
-  - [patchme.py](./Steganography/The%20Arts%20of%20Details/) 
-  - [Safe Opener](./Steganography/ICMP/) 
-  - [unpackme.py](./Steganography/Treasure)
-  - [bloat.py](./Steganography/The%20Arts%20of%20Details/) 
-  - [Fresh Java](./Steganography/ICMP/) 
-  - [Bbbbloat](./Steganography/Treasure)
-  - [unpackme](./Steganography/The%20Arts%20of%20Details/) 
-  - [Keygenme](./Steganography/ICMP/) 
-  - [Wizardlike](./Steganography/Treasure)
+  - [file-run1](./Reverse/file-run1/) 
+  - [file-run2](./Reverse/file-run2/) 
+  - [GDB Test Drive](./Reverse/GDB%20Test%20Drive)
+  - [patchme.py](./Reverse/patchme.py/) 
+  - [Safe Opener](./Reverse/Safe%20Opener/) 
+  - unpackme.py
+  - bloat.py 
+  - Fresh Java 
+  - Bbbbloat
+  - unpackme 
+  - Keygenme 
+  - Wizardlike
   
 - Forensics (13)
-  - [Enhance!](./Steganography/The%20Arts%20of%20Details/) 
-  - [File types](./Steganography/ICMP/) 
-  - [Lookey here](./Steganography/Treasure)
-  - [Packets Primer](./Steganography/The%20Arts%20of%20Details/) 
-  - [Redaction gone wrong](./Steganography/ICMP/) 
-  - [Sleuthkit Intro](./Steganography/Treasure)
-  - [Sleuthkit Apprentice](./Steganography/The%20Arts%20of%20Details/) 
-  - [Eavesdrop](./Steganography/ICMP/) 
-  - [Operation Oni](./Steganography/Treasure)
-  - [St3g0](./Steganography/The%20Arts%20of%20Details/) 
-  - [Operation Orchid](./Steganography/ICMP/) 
-  - [SideChannel](./Steganography/Treasure)
-  - [Torrent Analyze](./Steganography/tvtbinu)
+  - Enhance!
+  - File types 
+  - Lookey here
+  - Packets Primer 
+  - Redaction gone wrong 
+  - Sleuthkit Intro
+  - Sleuthkit Apprentice 
+  - Eavesdrop 
+  - Operation Oni
+  - St3g0 
+  - Operation Orchid 
+  - SideChannel
+  - Torrent Analyze
   
 - Binary Exploitation (14)
-  - [basic-file-exploit](./Crypto/small%20weiner/) 
-  - [buffer overflow 0](./Steganography/The%20Arts%20of%20Details/) 
-  - [CVE-XXXX-XXXX](./Steganography/ICMP/) 
-  - [buffer overflow 1](./Steganography/Treasure)
-  - [RPS](./Steganography/The%20Arts%20of%20Details/) 
-  - [x-sixty-what](./Steganography/ICMP/) 
-  - [buffer overflow 2](./Steganography/Treasure)
-  - [buffer overflow 3](./Steganography/The%20Arts%20of%20Details/) 
-  - [flag leak](./Steganography/ICMP/) 
-  - [ropfu](./Steganography/Treasure)
-  - [wine](./Steganography/The%20Arts%20of%20Details/) 
-  - [function overwrite](./Steganography/ICMP/) 
-  - [stack cache](./Steganography/Treasure)
-  - [solfire](./Steganography/tvtbinu)
+  - basic-file-exploit 
+  - buffer overflow 0 
+  - CVE-XXXX-XXXX 
+  - buffer overflow 1
+  - RPS 
+  - x-sixty-what 
+  - buffer overflow 2
+  - buffer overflow 3 
+  - flag leak 
+  - ropfu
+  - wine 
+  - function overwrite 
+  - stack cache
+  - solfire
 
 ## Flag format
 picoCTF{printable_ASCII_chars}
