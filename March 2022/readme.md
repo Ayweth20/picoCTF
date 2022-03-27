@@ -52,13 +52,13 @@
   - [Enhance!](./Forensics/Enhance!)
   - File types 
   - Lookey here
-  - Packets Primer 
-  - Redaction gone wrong 
+  - [Packets Primer](./Forensics/Packets%20Primer] 
+  - [Redaction gone wrong ](./Forensics/Redaction%20gone%20wrong)
   - Sleuthkit Intro
   - Sleuthkit Apprentice 
   - Eavesdrop 
   - Operation Oni
-  - St3g0 
+  - [St3g0](./Forensics/St3g0)
   - Operation Orchid 
   - SideChannel
   - Torrent Analyze
