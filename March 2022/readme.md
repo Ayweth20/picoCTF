@@ -51,10 +51,10 @@
 - Forensics (13)
   - [Enhance!](./Forensics/Enhance!)
   - File types 
-  - Lookey here
-  - [Packets Primer](./Forensics/Packets%20Primer] 
+  - [Lookey here](./Forensics/Lookey%20%here)
+  - [Packets Primer](./Forensics/Packets%20Primer) 
   - [Redaction gone wrong ](./Forensics/Redaction%20gone%20wrong)
-  - Sleuthkit Intro
+  - [Sleuthkit Intro](Forensics/Sleuthkit%20Intro)
   - Sleuthkit Apprentice 
   - Eavesdrop 
   - Operation Oni
