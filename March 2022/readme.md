@@ -22,7 +22,7 @@
   - [basic-mod2](./Crypto/basic-mod2/) 
   - [credstuff](./Crypto/credstuff/) 
   - morse-code 
-  - rail-fence 
+  - [rail-fence](./Crypto/rail-fence/) 
   - substitution0
   - substitution1 
   - substitution2 
@@ -65,8 +65,8 @@
   
 - Binary Exploitation (14)
   - basic-file-exploit 
-  - buffer overflow 0 
-  - CVE-XXXX-XXXX 
+  - [buffer overflow 0](./Binary%20Exploitation/buffer%20overflow%200/)
+  - [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/)
   - buffer overflow 1
   - RPS 
   - x-sixty-what 
