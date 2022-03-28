@@ -6,78 +6,78 @@
 - Web Exploitation (12)
   - [Includes](./Web%20Exploitation/Includes/) 
   - [Inspect HTML](./Web%20Exploitation/Inspect%20HTML/) 
-  - [Local Authority](./Web%20Exploitation/Local%20Authority)
+  - [Local Authority](./Web%20Exploitation/Local%20Authority/)
   - [Search source](./Web%20Exploitation/Search%20source/) 
   - [Forbidden Paths](./Web%20Exploitation/Forbidden%20Paths/) 
-  - [Power Cookie](./Web%20Exploitation/Power%20Cookie)
+  - [Power Cookie](./Web%20Exploitation/Power%20Cookie/)
   - [Roboto Sans](./Web%20Exploitation/Roboto%20Sans/) 
   - [Secrets](./Web%20Exploitation/Secrets/) 
-  - [SQL Direct](./Web%20Exploitation/SQL%20Direct)
+  - [SQL Direct](./Web%20Exploitation/SQL%20Direct/)
   - [SQLiLite](./Web%20Exploitation/SQLiLite/)
-  - Live Art 
-  - noted
+  - [Live Art](./Web%20Exploitation/Live%20Art/)
+  - [noted](./Web%20Exploitation/noted/)
   
 - Crypto (15)
   - [basic-mod1](./Crypto/basic-mod1/) 
   - [basic-mod2](./Crypto/basic-mod2/) 
   - [credstuff](./Crypto/credstuff/) 
-  - morse-code 
+  - [morse-code](./Crypto/morse-code/) 
   - [rail-fence](./Crypto/rail-fence/) 
-  - substitution0
-  - substitution1 
-  - substitution2 
-  - [transposition-trial](./Crypto/transposition-trial)
+  - [substitution0](./Crypto/substitution0/)
+  - [substitution1](./Crypto/substitution1/) 
+  - [substitution2](./Crypto/substitution2/)
+  - [transposition-trial](./Crypto/transposition-trial/)
   - [Vigenere](./Crypto/Vigenere/) 
-  - diffie-hellman 
-  - Very Smooth
-  - Sequences 
-  - Sum-O-Primes 
-  - NSA Backdoor
+  - [diffie-hellman](./Crypto/diffie-hellman/)
+  - [Very Smooth](./Crypto/Very%20Smooth/)
+  - [Sequences](./Crypto/Sequences/)
+  - [Sum-O-Primes](./Crypto/Sum-O-Primes/)
+  - [NSA Backdoor](./Crypto/NSA%20Backdoor/)
   
 - Reverse (12)
   - [file-run1](./Reverse/file-run1/) 
   - [file-run2](./Reverse/file-run2/) 
-  - [GDB Test Drive](./Reverse/GDB%20Test%20Drive)
+  - [GDB Test Drive](./Reverse/GDB%20Test%20Drive/)
   - [patchme.py](./Reverse/patchme.py/) 
   - [Safe Opener](./Reverse/Safe%20Opener/) 
-  - unpackme.py
-  - bloat.py 
+  - [unpackme.py](./Reverse/unpackme.py/)
+  - [bloat.py](./Reverse/bloat.py/)
   - [Fresh Java](./Reverse/Fresh%20Java/) 
-  - Bbbbloat
-  - unpackme 
-  - Keygenme 
-  - Wizardlike
+  - [Bbbbloat](./Reverse/Bbbbloat/)
+  - [unpackme](./Reverse/unpackme/)
+  - [Keygenme](./Reverse/Keygenme/)
+  - [Wizardlike](./Reverse/Wizardlike/)
   
 - Forensics (13)
   - [Enhance!](./Forensics/Enhance!)
-  - File types 
-  - [Lookey here](./Forensics/Lookey%20%here)
-  - [Packets Primer](./Forensics/Packets%20Primer) 
-  - [Redaction gone wrong ](./Forensics/Redaction%20gone%20wrong)
-  - [Sleuthkit Intro](Forensics/Sleuthkit%20Intro)
-  - Sleuthkit Apprentice 
-  - Eavesdrop 
-  - Operation Oni
+  - [File types](./Forensics//)
+  - [Lookey here](./Forensics/Lookey%20%here/)
+  - [Packets Primer](./Forensics/Packets%20Primer/) 
+  - [Redaction gone wrong ](./Forensics/Redaction%20gone%20wrong/)
+  - [Sleuthkit Intro](Forensics/Sleuthkit%20Intro/)
+  - [Sleuthkit Apprentice](./Forensics//)
+  - [Eavesdrop](./Forensics//)
+  - [Operation Oni](./Forensics//)
   - [St3g0](./Forensics/St3g0)
-  - Operation Orchid 
-  - SideChannel
-  - Torrent Analyze
+  - [Operation Orchid](./Forensics//)
+  - [SideChannel](./Forensics//)
+  - [Torrent Analyze](./Forensics//)
   
 - Binary Exploitation (14)
-  - basic-file-exploit 
+  - [basic-file-exploit](./Binary%20Exploitation//)
   - [buffer overflow 0](./Binary%20Exploitation/buffer%20overflow%200/)
   - [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/)
-  - buffer overflow 1
-  - RPS 
-  - x-sixty-what 
-  - buffer overflow 2
-  - buffer overflow 3 
-  - flag leak 
-  - ropfu
-  - wine 
-  - function overwrite 
-  - stack cache
-  - solfire
+  - [buffer overflow 1](./Binary%20Exploitation//)
+  - [RPS](./Binary%20Exploitation//)
+  - [x-sixty-what](./Binary%20Exploitation//)
+  - [buffer overflow 2](./Binary%20Exploitation//)
+  - [buffer overflow 3](./Binary%20Exploitation//)
+  - [flag leak](./Binary%20Exploitation//)
+  - [ropfu](./Binary%20Exploitation//)
+  - [wine](./Binary%20Exploitation//)
+  - [function overwrite](./Binary%20Exploitation//)
+  - [stack cache](./Binary%20Exploitation//)
+  - [solfire](./Binary%20Exploitation//)
 
 ## Flag format
 picoCTF{printable_ASCII_chars}
