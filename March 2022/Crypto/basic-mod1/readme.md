@@ -6,7 +6,7 @@ Take each number mod 37 and map it to the following character set: 0-25 is the a
 Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_message})
 
 **Hint:**
-> Do you know what mod 37 means?
+> Do you know what mod 37 means?  
 > `mod 37` means modulo 37. It gives the remainder of a number after being divided by 37.  
 
 **Solution:**  
