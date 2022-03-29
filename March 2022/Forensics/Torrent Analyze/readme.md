@@ -6,10 +6,10 @@ One of your colleagues has been using torrent to download some files on the comp
 The file name will be the flag, like `picoCTF{filename}`. [Captured traffic](./torrent.pcap/).
 
 **Hints:**  
-> Download and open the file with a packet analyzer like [Wireshark](https://www.wireshark.org/).
-> You may want to enable BitTorrent protocol (BT-DHT, etc.) on Wireshark. Analyze -> Enabled Protocols
-> Try to understand peers, leechers and seeds. [Article](https://www.techworm.net/2017/03/seeds-peers-leechers-torrents-language.html)
-> The file name ends with `.iso`
+> Download and open the file with a packet analyzer like [Wireshark](https://www.wireshark.org/).  
+> You may want to enable BitTorrent protocol (BT-DHT, etc.) on Wireshark. Analyze -> Enabled Protocols  
+> Try to understand peers, leechers and seeds. [Article](https://www.techworm.net/2017/03/seeds-peers-leechers-torrents-language.html)  
+> The file name ends with `.iso`  
 
 **Solution:**  
 
