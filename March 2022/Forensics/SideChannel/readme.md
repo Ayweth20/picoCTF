@@ -7,9 +7,9 @@ Once you've figured out the PIN (and gotten the checker program to accept it), c
 
 
 **Hints:**  
-> Read about "timing-based side-channel attacks."
-> Attempting to reverse-engineer or exploit the binary won't help you, you can figure out the PIN just by interacting with it and measuring certain properties about it.
-> Don't run your attacks against the master server, it is secured against them. The PIN code you get from the pin_checker binary is the same as the one for the master server.
+> Read about "timing-based side-channel attacks."  
+> Attempting to reverse-engineer or exploit the binary won't help you, you can figure out the PIN just by interacting with it and measuring certain properties about it.  
+> Don't run your attacks against the master server, it is secured against them. The PIN code you get from the pin_checker binary is the same as the one for the master server.  
 
 **Solution:**  
 
