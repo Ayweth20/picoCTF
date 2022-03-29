@@ -7,8 +7,8 @@ Can you figure out the contents of the message? Download the message [here](./me
 Wrap your decrypted message in the picoCTF flag format like: `picoCTF{decrypted_message}`  
 
 **Hint:**
-> Diffie-Hellman key exchange is a well known algorithm for generating keys, try looking up how the secret key is generated
-> For your Caesar shift amount, try forwards and backwards.
+> Diffie-Hellman key exchange is a well known algorithm for generating keys, try looking up how the secret key is generated  
+> For your Caesar shift amount, try forwards and backwards.  
 
 **Solution:**  
 
