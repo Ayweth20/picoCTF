@@ -6,8 +6,8 @@ Take each number mod 41 and find the modular inverse for the result. Then map to
 Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_message})  
 
 **Hint:**
-> Do you know what the modular inverse is?
-> The inverse modulo z of x is the number, y that when multiplied by x is 1 modulo z
+> Do you know what the modular inverse is?  
+> The inverse modulo z of x is the number, y that when multiplied by x is 1 modulo z  
 > It's recommended to use a tool to find the modular inverses  
 
 **Solution:**  
