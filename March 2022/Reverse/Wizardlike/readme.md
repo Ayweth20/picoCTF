@@ -6,7 +6,7 @@ Download the [game](./game/).
 '`w`', '`a`', '`s`', '`d`' moves your character and '`Q`' quits. You'll need to improvise some wizardly abilities to find the flag in this dungeon crawl. '`.`' is floor, '`#`' are walls, '`<`' are stairs up to previous level, and '>' are stairs down to next level.
 
 **Hint:**
-> Different tools are better at different things. Ghidra is awesome at static analysis, but radare2 is amazing at debugging.
+> Different tools are better at different things. Ghidra is awesome at static analysis, but radare2 is amazing at debugging.  
 > With the right focus and preparation, you can teleport to anywhere on the map.  
 
 **Solution:**  
