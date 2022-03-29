@@ -5,8 +5,8 @@ A second message has come in the mail, and it seems almost identical to the firs
 Download the message [here](./message.txt/).  
 
 **Hint:**
-> Try a frequency attack
-> Do the punctuation and the individual words help you make any substitutions?
+> Try a frequency attack  
+> Do the punctuation and the individual words help you make any substitutions?  
 
 **Solution:**  
 
