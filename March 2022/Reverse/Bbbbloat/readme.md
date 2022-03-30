@@ -20,6 +20,7 @@ I booted up IDA and went straight to the .main of the binary and found something
 On this last line I highlighted we can see that the bianry compares the input to "86187h" which is equal to "549255"
 
 So I guess we got it's favorite number then, let's try it out!
+
 ![image](https://user-images.githubusercontent.com/90833446/160921705-e430518d-846e-4412-860d-a3b2a69e9e0c.png)
 
 And here's our flag !
