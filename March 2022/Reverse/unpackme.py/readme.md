@@ -8,6 +8,6 @@
   <summary>:triangular_flag_on_post: FLAG</summary>
 
   ```
-  picoCTF{}
+  picoCTF{175_chr157m45_5274ff21}
   ```
 </details>
