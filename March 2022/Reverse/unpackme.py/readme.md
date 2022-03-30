@@ -14,7 +14,7 @@ key_str = 'correctstaplecorrectstaplecorrec'
 This string is converted to Base64 :
 key_base64 = base64.b64encode(key_str.encode())
 
-and we can see that the program creates a Fernet encryption method with key_base64 as the key
+and we can see that the program creates a Fernet encryption method with key_base64 as the key :
 f = Fernet(key_base64)
 
 to decrypt the flag we need to do a Fernet decryption and for this I used [this online tool.](https://asecuritysite.com/encryption/ferdecode)
