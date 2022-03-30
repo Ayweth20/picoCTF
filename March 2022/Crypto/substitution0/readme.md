@@ -20,7 +20,7 @@ Download the message [here](./message.txt/).
 
 At first sight of our message.txt, we can guess 3 different parts : 
 
-The first one is `EKSZJTCMXOQUDYLFABGPHNRVIW` . After a brief analysis, we notice that this string is an **alphabet **: there is 26 characters, all different.
+The first one is `EKSZJTCMXOQUDYLFABGPHNRVIW` . After a brief analysis, we notice that this string is an **alphabet** : there is 26 characters, all different.
 
 The second part is an unreadable text, that has the structure of a real text, but the letters are obviously the wrong one.
 
@@ -28,7 +28,7 @@ The last one contains the flag wrapper `fxslSPT{5HK5717H710Y_3N0UH710Y_59533E2J}
 
 
 
-As we know this challenge is about substitution, a little search (https://en.wikipedia.org/wiki/Substitution_cipher), makes us understand what the alphabet in the first part is about : each letter of our English alphabet is replaced by another of our new alphabet.
+As we know this challenge is about substitution, a [little search](https://en.wikipedia.org/wiki/Substitution_cipher)  makes us understand what the alphabet in the first part is about : each letter of our English alphabet is replaced by another of our new alphabet.
 
 Explanation : 
 
