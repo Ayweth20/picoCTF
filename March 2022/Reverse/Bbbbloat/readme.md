@@ -21,7 +21,7 @@ On this last line I highlighted we can see that the bianry compares the input to
 
 So I guess we got it's favorite number then, let's try it out!
 
-![image](https://user-images.githubusercontent.com/90833446/160921705-e430518d-846e-4412-860d-a3b2a69e9e0c.png)
+![image](https://user-images.githubusercontent.com/91023285/161246322-0b830d5a-454d-4332-b776-61c721135544.png)
 
 And here's our flag !
 
