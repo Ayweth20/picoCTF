@@ -5,8 +5,9 @@
 **Solution:**  
 
 First, when we open the program we can see a "payload" :
-
+```
 "payload = b'gAAAAABiMD04m0Z6CohVV7ozdwHqtgc2__CuAFGG8rWhZBTL0lhfzp-mhu9LYNMnMQMGO-7tEwy3DJ2Y8yjogvzyojFETwN9YEIPXTnO9F1QnkPypWTgjISGve4gcSerJMs694oKcIdKHuVaSxOg1MMNs5k9iPaBIPU7xOKQqCyhnf_f4yUvLdMcer38BqRptocJNvKlyWN8h7ikoWL0zlssxd8OJyPujMz78HZaefvUouvq6LDtPVqRBJFPgSJYf1nHpHKFa1O0zJ6UpTe6ba3PPAxCVXutNg=='"
+```
 
 Then we spot a variable named key_str :
 key_str = 'correctstaplecorrectstaplecorrec'
@@ -20,7 +21,8 @@ f = Fernet(key_base64)
 to decrypt the flag we need to do a Fernet decryption and for this I used [this online tool.](https://asecuritysite.com/encryption/ferdecode)
 
 by entering "Y29ycmVjdHN0YXBsZWNvcnJlY3RzdGFwbGVjb3JyZWM=" as the key (key_str to base64) and our payload we get :
-![image](https://user-images.githubusercontent.com/90833446/160919054-2fb42e4b-5981-4292-9169-c48190209f24.png)
+![image](https://user-images.githubusercontent.com/91023285/161245807-83055535-e1c9-4c00-885c-4f5d7e20fd1c.png)
+
 
 And here's our flag !
 
