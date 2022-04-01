@@ -9,15 +9,6 @@ We have so much faith in RSA we give you not just the product of the primes, but
 > I love squares :)  
 
 **Solution:**  
-
-
-<details>
-  <summary>:triangular_flag_on_post: FLAG</summary>
-
-  ```
-  picoCTF{}
-  ```
-</details>
 In order to understand this challenge, you have to know how to deal with RSA challenges.
 
 To get the flag, we need three particular values : `e`,`p`, `q` and `c`.
@@ -44,3 +35,10 @@ After some quick maths and a second degree equation, we get
 
 Now that we have all variables needed, we can decipher the message using [this site](https://www.dcode.fr/rsa-cipher)
 
+<details>
+  <summary>:triangular_flag_on_post: FLAG</summary>
+
+  ```
+  picoCTF{}
+  ```
+</details>
